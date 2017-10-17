@@ -1,0 +1,9 @@
+machine:
+  node:
+    version: 6
+test:
+  override:
+    # example webpack build
+    - npm run build
+    # run Cypress tests
+    - npm test

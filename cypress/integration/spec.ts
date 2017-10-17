@@ -1,0 +1,3 @@
+describe('TypeScript', () => {
+  it('works', () => {})
+})

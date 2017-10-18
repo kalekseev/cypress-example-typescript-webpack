@@ -1,5 +1,5 @@
 {
-  "name": "cypress-example-typescript",
+  "name": "cypress-example-typescript-webpack",
   "version": "1.0.0",
   "description": "Example showing TypeScript tests with Cypress",
   "main": "index.js",

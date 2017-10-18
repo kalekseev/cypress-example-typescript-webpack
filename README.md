@@ -1,6 +1,6 @@
-# cypress-example-typescript
+# cypress-example-typescript-webpack
 
-> Example showing TypeScript tests with Cypress
+> Example showing TypeScript tests with Cypress using Webpack
 
 Uses [webpack](https://github.com/webpack/webpack) to transpile TypeScript tests
 via [@cypress/webpack-preprocessor](https://github.com/cypress-io/cypress-webpack-preprocessor)

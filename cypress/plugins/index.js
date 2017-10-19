@@ -1,8 +1,8 @@
 const wp = require('@cypress/webpack-preprocessor')
 
-module.exports = (register, config) => {
+module.exports = (on, config) => {
   const options = {
     webpackOptions: require('../../webpack.config')
   }
-  register('on:spec:file:preprocessor', wp(config, options))
+  on('file:preprocessor', wp(config, options))
 }

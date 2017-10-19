@@ -1,5 +1,7 @@
 # cypress-example-typescript-webpack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cypress-io/cypress-example-typescript-webpack.svg)](https://greenkeeper.io/)
+
 > Example showing TypeScript tests with Cypress using Webpack
 
 Uses [webpack](https://github.com/webpack/webpack) to transpile TypeScript tests

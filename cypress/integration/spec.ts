@@ -1,4 +1,4 @@
-declare function expect(any):any
+declare const expect: Chai.ExpectStatic;
 
 describe('TypeScript', () => {
   it('works', () => {
